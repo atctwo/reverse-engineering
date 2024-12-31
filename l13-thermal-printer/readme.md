@@ -1,5 +1,5 @@
 # L13 Thermal Printer Reverse Engineering Notes
-These notes describe what I've learned about how the L13 Thermal Label Printer works.  These notes are presented in a very objective way, but I made a [writeup](https://atctwo.net/posts/2024/07/09/thermal-printer.html) about the reverse engineering process if that sounds fun to read.
+These notes describe what I've learned about how the L13 Thermal Label Printer works.  These notes are presented in a very objective way, but I made a [writeup](https://atctwo.net/posts/2024/07/16/thermal-printer.html) about the reverse engineering process if that sounds fun to read.
 
 <img src="egg.jpg" width="200px" alt="Picture of the thermal printer">
 
